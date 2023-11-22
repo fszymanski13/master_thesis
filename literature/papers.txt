@@ -1,0 +1,12 @@
+https://www.mdpi.com/2220-9964/10/9/600?utm_campaign=releaseissue_ijgiutm_medium=emailutm_source=releaseissueutm_term=titlelink1
+
+???Kanevski, M. Machine Learning for Spatial Environmental Data: Theory, Applications, and Software; EPFL Press: Lausanne, Switzerland, 2009. [Google Scholar]
+
+???Deng, M.; Yang, W.; Liu, Q. Geographically weighted extreme learning machine: A method for space–time prediction. Geogr. Anal. 2017, 49, 433–450. [Google Scholar] [CrossRef]
+
+???Murwira, A.; Skidmore, A.K. The response of elephants to the spatial heterogeneity of vegetation in a Southern African agricultural landscape. Landsc. Ecol. 2005, 20, 217–234. [Google Scholar] [CrossRef]
+
+???Effati, M.; Thill, J.C.; Shabani, S. Geospatial and machine learning techniques for wicked social science problems: Analysis of crash severity on a regional highway corridor. J. Geogr. Syst. 2015, 17, 107–135. [Google Scholar] [CrossRef]
+
+
+???Reades, J.; De Souza, J.; Hubbard, P. Understanding urban gentrification through machine learning. Urban Stud. 2019, 56, 922–942. [Google Scholar] [CrossRef][Green Version]

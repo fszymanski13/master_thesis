@@ -1,0 +1,36 @@
+https://sci-hub.se/https://doi.org/10.3390/ijgi7010001
+
+Dwa pytania badawcze:
+
+RQ1 Are the effects of location factors, as reported by previous studies using aggregated spatial units, robust at the microgeographic level?
+
+RQ2 How does a firm location prediction model perform at the microgeographic level and to whatdegree does it provide valuable new insights into the firm allocation process? What are the distinct requirements to the data and the statistical model?
+
+Całe badanie jest na przykładzie firm IT w Niemczech. Składa się z Exploratory Spatial Data Analysis i dwóch regresji. 
+
+***urywek z podsumowania***
+
+Agglomeration economies manifest via dense
+customer-supplier linkages, labor pooling, knowledge spill overs, and high quality infrastructure.
+We included both the number of firms and the number of inhabitants as measures of density,
+even though these two are highly correlated, because they can differ at the microgeographic level as
+we showed in the ESDA. Empirical evidence for a positive effect of agglomeration on the location
+decision of firms, as we find it in our study, is confirmed in many studies [22,60–64]. There is a
+general agreement that the effect of density on location decisions is non-linear and follows an inverted
+U-shaped profile [15]. This means that, from a certain threshold, agglomeration diseconomies, i.e.,
+negative economic effects caused by agglomeration, appear. We model this by including the squared
+number of firms and inhabitants. The estimated coefficient, which is negative and significant, confirms
+the assumed inverted U-shape effect of density on software firm location numbers.
+
+***drugi urywek o dodatkowej zmiennej lokalizacjnej***
+
+. By including
+the difference between the mean elevation within the considered cell and the mean elevation in the
+surrounding area (8 adjacent cells plus the focal cell), we are able to identify hillsides and valleys.
+The estimated coefficient indicates that we created an important microgeographic predictor
+
+
+W pracy podsumowują też performance modelu, mzoemy cos o tym napisac przy okazji pisywania metodyki badawczej
+
+w bibliografii jest sporo artykułów o ge-data mining i metodyce badawczej
+
